@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include "deck.h"
 
 /*
  * main method of blackjack, runs the game calling the deck from deck.h
